@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Agamemnon",
+    "gender": "Male",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Very steadfast (Leader of the Greek forces at Troy)"
+  },
+  {
+    "name": "Alexandra",
+    "gender": "Female",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Defender of man (Attested on Linear B tablets)"
+  },
+  {
+    "name": "Hektor",
+    "gender": "Male",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Holding fast (Trojan hero, name found in Linear B)"
+  },
+  {
+    "name": "Ariadne",
+    "gender": "Female",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Most holy (Daughter of King Minos)"
+  },
+  {
+    "name": "Menelaus",
+    "gender": "Male",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Strength of the people (King of Sparta, husband of Helen)"
+  },
+  {
+    "name": "Iphigenia",
+    "gender": "Female",
+    "culture": "Greek",
+    "sub_period": "Mycenaean Period",
+    "meaning": "Strong-born (Daughter of Agamemnon)"
+  }
+]

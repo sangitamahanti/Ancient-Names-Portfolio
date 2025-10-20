@@ -1,0 +1,78 @@
+/* src/App.css */
+
+/* This targets the main div container in index.html */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* This targets the <div> in your App.jsx */
+.App {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+/* These H1 and H2 styles will act as the default fallback */
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: #A67C52; /* Deep Bronze for the main title */
+}
+
+h2 {
+  color: #30A9A1; /* Antique Teal for the subtitle */
+  margin-bottom: 30px;
+}
+
+
+.roman-section h2 {
+  margin-top: 40px;
+}
+
+.name-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.roman-section p {
+  margin-top: 20px;
+}
+
+/* ------------------------------------------------ */
+/* --- THEME OVERRIDES START HERE (Conditional Colors) --- */
+/* ------------------------------------------------ */
+
+/* Dark Mode Headings (Ensures your original, preferred colors stay when in Dark Mode) */
+body.dark-mode h1 {
+  color: #A67C52; /* Deep Bronze */
+}
+body.dark-mode h2 {
+  color: #30A9A1; /* Antique Teal */
+}
+
+/* Light Mode Headings (Makes colors darker for readability on white background) */
+body.light-mode h1 {
+  color: #79553D; /* Darker Bronze for readability */
+}
+
+body.light-mode h2 {
+  color: #008080; /* Darker Teal for readability */
+}
+
+/* Theme Toggle Button Style (Ensures it looks good in both themes) */
+.theme-toggle-button {
+  /* Style matches the dark mode accent */
+  background-color: #64ffda;
+  color: #1a1a1a;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  transition: background-color 0.25s;
+}

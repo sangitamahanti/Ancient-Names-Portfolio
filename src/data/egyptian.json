@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ramses",
+    "gender": "Male",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "Ra is the one who bore him"
+  },
+  {
+    "name": "Nefertiti",
+    "gender": "Female",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "The beautiful one has arrived"
+  },
+  {
+    "name": "Amenhotep",
+    "gender": "Male",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "Amun is satisfied"
+  },
+  {
+    "name": "Sitre",
+    "gender": "Female",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "Daughter of Ra"
+  },
+  {
+    "name": "Thutmose",
+    "gender": "Male",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "Born of Thoth"
+  },
+  {
+    "name": "Ahmose",
+    "gender": "Male",
+    "culture": "Egyptian",
+    "sub_period": "New Kingdom",
+    "meaning": "Born of the Moon"
+  }
+]

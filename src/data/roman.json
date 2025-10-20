@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Augustus",
+    "gender": "Male",
+    "culture": "Roman",
+    "sub_period": "Early Empire",
+    "meaning": "Venerable, magnificent"
+  },
+  {
+    "name": "Livia",
+    "gender": "Female",
+    "culture": "Roman",
+    "sub_period": "Early Empire",
+    "meaning": "Blueish, envious"
+  },
+  {
+    "name": "Marcus",
+    "gender": "Male",
+    "culture": "Roman",
+    "sub_period": "Republic",
+    "meaning": "Dedicated to Mars"
+  },
+  {
+    "name": "Julia",
+    "gender": "Female",
+    "culture": "Roman",
+    "sub_period": "Republic",
+    "meaning": "Youthful, downy"
+  },
+  {
+    "name": "Hadrian",
+    "gender": "Male",
+    "culture": "Roman",
+    "sub_period": "High Empire",
+    "meaning": "From Hadria (Italy)"
+  },
+  {
+    "name": "Aurelia",
+    "gender": "Female",
+    "culture": "Roman",
+    "sub_period": "High Empire",
+    "meaning": "The golden one"
+  }
+]

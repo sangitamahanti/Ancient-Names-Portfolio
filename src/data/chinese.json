@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Confucius",
+    "gender": "Male",
+    "culture": "Chinese",
+    "sub_period": "Spring/Autumn Period",
+    "meaning": "Master Kong (Latinized Honorific)"
+  },
+  {
+    "name": "Mencius",
+    "gender": "Male",
+    "culture": "Chinese",
+    "sub_period": "Warring States Period",
+    "meaning": "Master Meng (Latinized Honorific)"
+  },
+  {
+    "name": "Xi Shi",
+    "gender": "Female",
+    "culture": "Chinese",
+    "sub_period": "Spring/Autumn Period",
+    "meaning": "Western Lady (One of the Four Beauties)"
+  },
+  {
+    "name": "Mozi",
+    "gender": "Male",
+    "culture": "Chinese",
+    "sub_period": "Warring States Period",
+    "meaning": "Master Mo (Advocate of Mohism)"
+  },
+  {
+    "name": "Sun Tzu",
+    "gender": "Male",
+    "culture": "Chinese",
+    "sub_period": "Spring/Autumn Period",
+    "meaning": "Master Sun (Author of The Art of War)"
+  },
+  {
+    "name": "Fu Hao",
+    "gender": "Female",
+    "culture": "Chinese",
+    "sub_period": "Shang Dynasty",
+    "meaning": "Lady Hao (High-ranking military leader)"
+  }
+]

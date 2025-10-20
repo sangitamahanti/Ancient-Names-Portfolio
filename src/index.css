@@ -1,0 +1,27 @@
+/* src/index.css */
+
+/* ... (Keep existing code above this point) ... */
+
+/* --- GLOBAL THEME CLASSES --- */
+/* Set a default for when JavaScript hasn't loaded (defaulting to dark based on your original vite setup) */
+:root {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+/* Apply light mode styles when the class is toggled */
+body.light-mode {
+  color: #213547; /* Dark text */
+  background-color: #ffffff; /* White page background */
+}
+
+/* Apply dark mode styles when the class is toggled */
+body.dark-mode {
+  color: rgba(255, 255, 255, 0.87); /* Light text */
+  background-color: #242424; /* Dark page background */
+}
+
+/* Remove the unused media query logic that conflicted with your desired colors */
+@media (prefers-color-scheme: light) {
+  /* This block is now overridden by the JS toggle logic */
+}

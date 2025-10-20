@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Enheduanna",
+    "gender": "Female",
+    "culture": "Sumerian",
+    "sub_period": "Akkadian Empire",
+    "meaning": "High priestess, gift from the sky"
+  },
+  {
+    "name": "Gilgamesh",
+    "gender": "Male",
+    "culture": "Sumerian",
+    "sub_period": "Early Dynastic III",
+    "meaning": "The ancestor is a young man"
+  },
+  {
+    "name": "Sargon of Akkad",
+    "gender": "Male",
+    "culture": "Akkadian",
+    "sub_period": "Akkadian Empire",
+    "meaning": "The legitimate king"
+  },
+  {
+    "name": "Shamash",
+    "gender": "Male",
+    "culture": "Babylonian",
+    "sub_period": "Old Babylonian Period",
+    "meaning": "Sun god; light of the gods"
+  },
+  {
+    "name": "Hammurabi",
+    "gender": "Male",
+    "culture": "Babylonian",
+    "sub_period": "Old Babylonian Period",
+    "meaning": "The great one"
+  },
+  {
+    "name": "Ishtar",
+    "gender": "Female",
+    "culture": "Babylonian",
+    "sub_period": "Old Babylonian Period",
+    "meaning": "Goddess of love, war, and fertility"
+  }
+]
