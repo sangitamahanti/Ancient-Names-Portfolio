@@ -1,7 +1,7 @@
 # 🏛️ Ancient-Names-Portfolio: Historical Fantasy Name Generator
 
 [![Demo GIF of Theme Toggle and Copy Feature](public/images/demo.mp4)](https://github.com/sangitamahanti/Ancient-Names-Portfolio)
-*Replace the above line with a link to your **new** demo video/GIF.*
+
 
 This project is a specialized web tool built with **React and Vite** to present curated fantasy names rooted in Bronze Age civilizations, driven by research into cultures like **Mesopotamia, the Aegean cultures, Egypt, and China**.
 
