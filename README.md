@@ -5,6 +5,10 @@
 This repository hosts the **live, component-based frontend** for a planned full-stack Content Management System (CMS). The application is built using the modern **React JS** framework with the **Vite** build tool, demonstrating a focus on performance, component architecture, and modern front-end tooling.
 
 The current frontend utilizes a dataset **validated against actual archaeological or historical findings**, providing a foundation of high-integrity data.
+## 📸 Preview
+
+![Frontend Demo](public/images/demo.gif)
+
 
 ---
 
