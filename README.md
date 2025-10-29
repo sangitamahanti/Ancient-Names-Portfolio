@@ -38,7 +38,7 @@ The goal is to deploy a secure, full-stack CMS that showcases advanced **Data Mo
 
 ```bash
 # 1. Clone the Repository
-git clone [https://github.com/sangitamahanti/Ancient-Names-Portfolio.git](https://github.com/sangitamahanti/Ancient-Names-Portfolio.git)
+git clone [https://github.com/sangitamahanti/Ancient-Names-Portfolio.git](https://github.com/sangitamahanti/Ancient-Names-Portfolio.git)]
 # 2. Install Dependencies
 cd Ancient-Names-Portfolio
 npm install 
@@ -46,6 +46,6 @@ npm install
 npm run dev
 
 🌐 Live Demonstration
-Live Demo Link
+Live Demo:(https://sangitamahanti.github.io/Ancient-Names-Portfolio/)
 
 Developed by: Sangita Mahanti (Full-Stack MERN Developer)
