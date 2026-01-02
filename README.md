@@ -48,4 +48,4 @@ npm run dev
 🌐 Live Demonstration
 Live Demo:(https://sangitamahanti.github.io/Ancient-Names-Portfolio/)
 
-Developed by: Sangita Mahanti (Full-Stack MERN Developer)
+Developed by: Sangita Mahanti
